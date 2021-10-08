@@ -6,7 +6,7 @@ Input: aaaabbbccccaa<br/>
 Output: a4b3c4a2<br/>
 
 Decision:
-
+<code>
 let string = 'aaaabbbccccaa';
 
 function countCharsInString(string){
@@ -28,5 +28,5 @@ function countCharsInString(string){
   }
 
 console.log(countCharsInString(string));
-
+</code>
 U can view it in jsbin: https://jsbin.com/yirihemisa/4/edit?js,console
