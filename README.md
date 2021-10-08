@@ -1,9 +1,9 @@
 # countCharsInString
-Js-Task: 
+Js-Task: <br/>
 Need write the function which get universal output for any input string.
 
-Input: aaaabbbccccaa
-Output: a4b3c4a2
+Input: aaaabbbccccaa<br/>
+Output: a4b3c4a2<br/>
 
 Decision:
 
