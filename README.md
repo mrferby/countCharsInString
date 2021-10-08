@@ -5,10 +5,11 @@ Need write the function which get universal output for any input string.
 Input: aaaabbbccccaa<br/>
 Output: a4b3c4a2<br/>
 
-Decision:
+Decision:<br/>
 <code>
 let string = 'aaaabbbccccaa';
-
+</code>
+<code>
 function countCharsInString(string){
     let input = string;
     let char = "";
@@ -26,7 +27,9 @@ function countCharsInString(string){
     finalString = finalString + char + "" + counter;
     return finalString;
   }
-
+</code>
+<br/>
+<code>
 console.log(countCharsInString(string));
 </code>
 U can view it in jsbin: https://jsbin.com/yirihemisa/4/edit?js,console
